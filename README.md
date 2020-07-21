@@ -1,4 +1,4 @@
-![](oracle_banner_redwood.png)
+![](images/oracle_banner_redwood.png)
 # APEX and Google Maps Plug-in Workshop
 ## Introduction
 These labs are part of the **APEX and Google Maps Plug-in Workshop**. This workshop will walk you through the process of using APEX, Autonomous Data Warehouse, and the Google Maps API for storing analytical datasets and applying data in order to track location information while leveraging APEX to create a simple application.
