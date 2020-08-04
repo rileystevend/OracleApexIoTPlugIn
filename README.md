@@ -5,6 +5,10 @@ These labs are part of the **APEX and Google Maps Plug-in Workshop**. This works
 After these labs you will be able to use APEX to create an application that utilizes ADW and 3rd party APIs (specifically the google maps API).
 During the workshop, you will get exposure to Oracle Autonomous Data Warehouse (ADW) and Oracle Application Express (APEX).
 
+For more information about Oracle's Autonomous Data Warehouse and Oracle Application Express (APEX) please view the documention below.
+[Autonomous Data Warehouse](https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/)
+[APEX](https://docs.oracle.com/en/database/oracle/application-express/20.1/htmdb/index.html)
+
 ## Objectives
 * Provision an Autonomous Data Warehouse (ADW) Instance
 * Build an Oracle Application Express (APEX) App
