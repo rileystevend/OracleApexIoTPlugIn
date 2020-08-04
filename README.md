@@ -6,7 +6,9 @@ After these labs you will be able to use APEX to create an application that util
 During the workshop, you will get exposure to Oracle Autonomous Data Warehouse (ADW) and Oracle Application Express (APEX).
 
 For more information about Oracle's Autonomous Data Warehouse and Oracle Application Express (APEX) please view the documention below.
+
 [Autonomous Data Warehouse](https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/)
+
 [APEX](https://docs.oracle.com/en/database/oracle/application-express/20.1/htmdb/index.html)
 
 ## Objectives
