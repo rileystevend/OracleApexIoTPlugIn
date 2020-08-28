@@ -1,3 +1,5 @@
+![](Images/oracle_banner_redwood copy.png)
+
 ![](Images/oracle_banner_redwood.png)
 # APEX and Google Maps Plug-in Workshop
 ## Introduction
